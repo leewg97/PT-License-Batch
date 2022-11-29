@@ -1,7 +1,7 @@
 # PT-License-Batch
 PT 이용권 관리 서비스 내 배치 repository <br>
 이용권 만료, 일괄 지급, 수업 전 알림, 수업 후 이용권 차감 기능을 제공 <br>
-[PT-License-Web 바로가기](https://github.com/leewg97/pt-license-web)
+[PT-License-Web Repository 바로가기](https://github.com/leewg97/pt-license-web)
 
 ## Environments
 * OpenJDK 17
